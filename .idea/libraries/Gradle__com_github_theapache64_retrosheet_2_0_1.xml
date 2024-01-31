@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.theapache64:retrosheet:2.0.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.github.theapache64" artifactId="retrosheet" version="2.0.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.theapache64/retrosheet/2.0.1/6386a933ebc1328041b54402c47603609d952bf5/retrosheet-2.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.theapache64/retrosheet/2.0.1/4fc084e46e6acbd1317cedd74d73cfbb5eb5c713/retrosheet-2.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.theapache64/retrosheet/2.0.1/7daca27582581b791daad86eb09baf310172bef9/retrosheet-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
